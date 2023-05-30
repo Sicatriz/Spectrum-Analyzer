@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=AudioIN.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=AudioIN.SchDoc|FileName=AudioOUT.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=AudioIN.SchDoc|FileName=spectrum_1kHz_500Hz.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=AudioIN.SchDoc|FileName=spectrum_2kHz_250Hz.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=AudioIN.SchDoc|FileName=spectrum_4kHz_125Hz.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=AudioIN.SchDoc|FileName=spectrum_8kHz_64Hz.SchDoc|SheetNumber=2

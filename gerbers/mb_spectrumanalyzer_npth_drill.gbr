@@ -1,0 +1,12 @@
+%FSTAX23Y23*%
+%MOIN*%
+%SFA1B1*%
+
+%IPPOS*%
+%ADD80C,0.062992*%
+%LNmb_spectrumanalyzer_npth_drill-1*%
+%LPD*%
+G54D80*
+X00252Y01104D03*
+X00488D03*
+M02*
